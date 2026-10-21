@@ -1,0 +1,29 @@
+[
+  {
+    "titulo": "¿Qué papel tiene la genética en las EII?",
+    "formato": "Reel",
+    "temas": ["Genética", "Conceptos básicos"],
+    "descripcion": "Un ejemplo de cómo podría aparecer un vídeo sobre susceptibilidad genética.",
+    "url": "",
+    "portada": "",
+    "emoji": "🧬"
+  },
+  {
+    "titulo": "Entendiendo el sistema inmunitario",
+    "formato": "Podcast",
+    "temas": ["Inmunología"],
+    "descripcion": "Ejemplo de una conversación sobre inmunidad e inflamación.",
+    "url": "",
+    "portada": "",
+    "emoji": "🎧"
+  },
+  {
+    "titulo": "Cómo se investigan las EII",
+    "formato": "Artículo",
+    "temas": ["Investigación"],
+    "descripcion": "Ejemplo de un artículo divulgativo sobre investigación biomédica.",
+    "url": "",
+    "portada": "",
+    "emoji": "🔬"
+  }
+]
