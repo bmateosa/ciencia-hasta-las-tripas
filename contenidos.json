@@ -1,29 +1,70 @@
 [
   {
-    "titulo": "¿Qué papel tiene la genética en las EII?",
+    "titulo": "Conoce Ciencia hasta las tripas",
     "formato": "Reel",
-    "temas": ["Genética", "Conceptos básicos"],
-    "descripcion": "Un ejemplo de cómo podría aparecer un vídeo sobre susceptibilidad genética.",
-    "url": "",
+    "temas": [
+      "Presentación"
+    ],
+    "descripcion": "Empieza aquí: conoce el proyecto y su contenido de divulgación sobre las EII.",
+    "url": "https://www.instagram.com/reel/DYuthTGizok/",
+    "portada": "",
+    "emoji": "💜",
+    "destacado": true
+  },
+  {
+    "titulo": "Conceptos básicos de genética",
+    "formato": "Reel",
+    "temas": [
+      "Genética",
+      "Conceptos básicos"
+    ],
+    "descripcion": "Un punto de partida para explorar la genética de las EII.",
+    "url": "https://www.instagram.com/reel/DZTAdkiCWUy/",
     "portada": "",
     "emoji": "🧬"
   },
   {
-    "titulo": "Entendiendo el sistema inmunitario",
-    "formato": "Podcast",
-    "temas": ["Inmunología"],
-    "descripcion": "Ejemplo de una conversación sobre inmunidad e inflamación.",
-    "url": "",
+    "titulo": "¿Las EII se heredan?",
+    "formato": "Reel",
+    "temas": [
+      "Genética",
+      "Herencia y riesgo"
+    ],
+    "descripcion": "Genética y riesgo familiar de las enfermedades inflamatorias intestinales.",
+    "url": "https://www.instagram.com/reel/DZk0UWTiz6J/",
     "portada": "",
-    "emoji": "🎧"
+    "emoji": "🧬"
   },
   {
-    "titulo": "Cómo se investigan las EII",
-    "formato": "Artículo",
-    "temas": ["Investigación"],
-    "descripcion": "Ejemplo de un artículo divulgativo sobre investigación biomédica.",
-    "url": "",
+    "titulo": "Genética e inmunología — Parte 1",
+    "formato": "Reel",
+    "temas": [
+      "Genética",
+      "Inmunología"
+    ],
+    "descripcion": "Genética e inmunología en las EII · Parte 1 de 2.",
+    "url": "https://www.instagram.com/reel/DeZvGzsC8T-/",
     "portada": "",
-    "emoji": "🔬"
+    "emoji": "🧫",
+    "serie": "Genética e inmunología",
+    "parte": 1,
+    "total_partes": 2,
+    "relacionado": "https://www.instagram.com/reel/DejOk84CTKM/"
+  },
+  {
+    "titulo": "Genética e inmunología — Parte 2",
+    "formato": "Reel",
+    "temas": [
+      "Genética",
+      "Inmunología"
+    ],
+    "descripcion": "Genética e inmunología en las EII · Parte 2 de 2.",
+    "url": "https://www.instagram.com/reel/DejOk84CTKM/",
+    "portada": "",
+    "emoji": "🧬",
+    "serie": "Genética e inmunología",
+    "parte": 2,
+    "total_partes": 2,
+    "relacionado": "https://www.instagram.com/reel/DeZvGzsC8T-/"
   }
 ]
