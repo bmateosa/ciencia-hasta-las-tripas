@@ -5,6 +5,7 @@
     "temas": [
       "Presentación"
     ],
+    "palabras_clave": [],
     "descripcion": "Empieza aquí. Conoce mi por qué.",
     "url": "https://www.instagram.com/reel/DYuthTGizok/",
     "portada": "",
@@ -15,8 +16,11 @@
     "titulo": "Conceptos básicos de genética en EII",
     "formato": "Reel",
     "temas": [
-      "Genética", "Genetica", "genética", "GWAS",
-      "Conceptos básicos", "conceptos básicos", "conceptos basicos",
+      "Genética",
+      "Conceptos básicos"
+    ],
+    "palabras_clave": [
+      "GWAS"
     ],
     "descripcion": "Un punto de partida para explorar la genética de las EII.",
     "url": "https://www.instagram.com/reel/DZTAdkiCWUy/",
@@ -27,8 +31,14 @@
     "titulo": "¿Las EII se heredan?",
     "formato": "Reel",
     "temas": [
-      "Genética", "genetica", "genética", "herencia",
-      "Herencia", "familia", "familiares","riesgo",
+      "Genética",
+      "Herencia y riesgo"
+    ],
+    "palabras_clave": [
+      "herencia",
+      "familia",
+      "familiares",
+      "riesgo"
     ],
     "descripcion": "Genética y riesgo familiar de las EII.",
     "url": "https://www.instagram.com/reel/DZk0UWTiz6J/",
@@ -39,9 +49,12 @@
     "titulo": "La genética de las EII ayudó a la humanidad a sobrevivir — Parte 1",
     "formato": "Reel",
     "temas": [
-       "Genética","genética", "Genetica", 
-      "Inmunología", "inmunología", "inmunologia",
-      "evolución", "Evolución", "Evolucion",
+      "Genética",
+      "Inmunología",
+      "Evolución"
+    ],
+    "palabras_clave": [
+      "evolución"
     ],
     "descripcion": "Genética e inmunología evolutiva en las EII · Parte 1 de 2.",
     "url": "https://www.instagram.com/reel/DeZvGzsC8T-/",
@@ -56,9 +69,14 @@
     "titulo": "La genética de las EII ayudó a la humanidad a sobrevivir — Parte 2",
     "formato": "Reel",
     "temas": [
-      "Genética","genética", "Genetica", 
-      "Inmunología", "inmunología", "inmunologia",
-      "evolución", "Evolución", "Evolucion", "Peste negra", "peste negra", "peste", "Peste",
+      "Genética",
+      "Inmunología",
+      "Evolución"
+    ],
+    "palabras_clave": [
+      "evolución",
+      "peste negra",
+      "peste"
     ],
     "descripcion": "Genética e inmunología evolutiva en las EII · Parte 2 de 2.",
     "url": "https://www.instagram.com/reel/DejOk84CTKM/",
