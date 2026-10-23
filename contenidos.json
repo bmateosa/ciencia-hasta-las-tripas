@@ -5,18 +5,18 @@
     "temas": [
       "Presentación"
     ],
-    "descripcion": "Empieza aquí: conoce el proyecto y su contenido de divulgación sobre las EII.",
+    "descripcion": "Empieza aquí. Conoce mi por qué.",
     "url": "https://www.instagram.com/reel/DYuthTGizok/",
     "portada": "",
     "emoji": "💜",
     "destacado": true
   },
   {
-    "titulo": "Conceptos básicos de genética",
+    "titulo": "Conceptos básicos de genética en EII",
     "formato": "Reel",
     "temas": [
-      "Genética",
-      "Conceptos básicos"
+      "Genética", "Genetica", "genética", "GWAS",
+      "Conceptos básicos", "conceptos básicos", "conceptos basicos",
     ],
     "descripcion": "Un punto de partida para explorar la genética de las EII.",
     "url": "https://www.instagram.com/reel/DZTAdkiCWUy/",
@@ -27,36 +27,38 @@
     "titulo": "¿Las EII se heredan?",
     "formato": "Reel",
     "temas": [
-      "Genética",
-      "Herencia y riesgo"
+      "Genética", "genetica", "genética", "herencia",
+      "Herencia", "familia", "familiares","riesgo",
     ],
-    "descripcion": "Genética y riesgo familiar de las enfermedades inflamatorias intestinales.",
+    "descripcion": "Genética y riesgo familiar de las EII.",
     "url": "https://www.instagram.com/reel/DZk0UWTiz6J/",
     "portada": "",
     "emoji": "🧬"
   },
   {
-    "titulo": "Genética e inmunología — Parte 1",
+    "titulo": "La genética de las EII ayudó a la humanidad a sobrevivir — Parte 1",
     "formato": "Reel",
     "temas": [
-      "Genética",
-      "Inmunología"
+       "Genética","genética", "Genetica", 
+      "Inmunología", "inmunología", "inmunologia",
+      "evolución", "Evolución", "Evolucion",
     ],
-    "descripcion": "Genética e inmunología en las EII · Parte 1 de 2.",
+    "descripcion": "Genética e inmunología evolutiva en las EII · Parte 1 de 2.",
     "url": "https://www.instagram.com/reel/DeZvGzsC8T-/",
     "portada": "",
-    "emoji": "🧫",
+    "emoji": "🧬",
     "serie": "Genética e inmunología",
     "parte": 1,
     "total_partes": 2,
     "relacionado": "https://www.instagram.com/reel/DejOk84CTKM/"
   },
   {
-    "titulo": "Genética e inmunología — Parte 2",
+    "titulo": "La genética de las EII ayudó a la humanidad a sobrevivir — Parte 2",
     "formato": "Reel",
     "temas": [
-      "Genética",
-      "Inmunología"
+      "Genética","genética", "Genetica", 
+      "Inmunología", "inmunología", "inmunologia",
+      "evolución", "Evolución", "Evolucion", "Peste negra", "peste negra", "peste", "Peste",
     ],
     "descripcion": "Genética e inmunología en las EII · Parte 2 de 2.",
     "url": "https://www.instagram.com/reel/DejOk84CTKM/",
