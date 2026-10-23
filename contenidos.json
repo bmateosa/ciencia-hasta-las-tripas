@@ -16,11 +16,12 @@
     "titulo": "Conceptos básicos de genética en EII",
     "formato": "Reel",
     "temas": [
-      "Genética",
-      "Conceptos básicos"
+      "Genética"
     ],
     "palabras_clave": [
-      "GWAS"
+      "GWAS",
+      "conceptos básicos",
+      "introducción a la genética"
     ],
     "descripcion": "Un punto de partida para explorar la genética de las EII.",
     "url": "https://www.instagram.com/reel/DZTAdkiCWUy/",
@@ -31,14 +32,14 @@
     "titulo": "¿Las EII se heredan?",
     "formato": "Reel",
     "temas": [
-      "Genética",
-      "Herencia y riesgo"
+      "Genética"
     ],
     "palabras_clave": [
       "herencia",
       "familia",
       "familiares",
-      "riesgo"
+      "riesgo",
+      "herencia y riesgo"
     ],
     "descripcion": "Genética y riesgo familiar de las EII.",
     "url": "https://www.instagram.com/reel/DZk0UWTiz6J/",
@@ -91,15 +92,15 @@
     "titulo": "Investigación en EII: entrevista en A golpe de bit",
     "formato": "Podcast",
     "temas": [
-      "Investigación",
-      "Conceptos básicos"
+      "Investigación"
     ],
     "palabras_clave": [
       "RTVE",
       "radio",
       "entrevista",
       "investigadoras",
-      "proyectos"
+      "proyectos",
+      "conceptos básicos"
     ],
     "descripcion": "Entrevista de radio en RTVE sobre proyectos de jóvenes investigadoras españolas en EII.",
     "url": "https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-proyectos-jovenes-investigadoras-espanolas-eii/16936862/",
@@ -128,8 +129,7 @@
     "titulo": "Fármacos en EII / Escala terapéutica",
     "formato": "Reel",
     "temas": [
-      "Tratamientos",
-      "Conceptos básicos"
+      "Tratamientos"
     ],
     "palabras_clave": [
       "fármacos",
@@ -146,8 +146,7 @@
     "titulo": "¿Por qué los fármacos no curan la enfermedad?",
     "formato": "Reel",
     "temas": [
-      "Tratamientos",
-      "Conceptos básicos"
+      "Tratamientos"
     ],
     "palabras_clave": [
       "cura",
@@ -164,9 +163,7 @@
     "titulo": "Multifactorial y de causas desconocidas",
     "formato": "Reel",
     "temas": [
-      "Conceptos básicos",
-      "Factores ambientales",
-      "Genética"
+      "Conceptos generales"
     ],
     "palabras_clave": [
       "multifactorial",
@@ -182,13 +179,13 @@
   {
     "titulo": "¿Qué es la EII?",
     "formato": "Reel",
-    "temas": [
-      "Conceptos básicos"
-    ],
+    "temas": [],
     "palabras_clave": [
       "Crohn",
       "colitis ulcerosa",
-      "enfermedad inflamatoria intestinal"
+      "enfermedad inflamatoria intestinal",
+      "conceptos generales",
+      "conceptos básicos"
     ],
     "descripcion": "Una introducción a las enfermedades inflamatorias intestinales.",
     "url": "https://www.instagram.com/reel/Dcq-USPiWMN/",
@@ -199,7 +196,7 @@
     "titulo": "Clasificación de las EII",
     "formato": "Reel",
     "temas": [
-      "Conceptos básicos"
+      "Conceptos generales"
     ],
     "palabras_clave": [
       "clasificación",

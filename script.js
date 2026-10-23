@@ -1,9 +1,8 @@
 const $ = id => document.getElementById(id);
 const normalize = s => String(s ?? '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase('es');
 const folderDetails = {
- 'Conceptos básicos': ['📖','Empieza por aquí'],
+ 'Conceptos generales': ['📖','Para entender las EII'],
  'Genética': ['🧬','Genes, herencia y riesgo'],
- 'Herencia y riesgo': ['🌱','Familia y predisposición'],
  'Inmunología': ['🦠','El sistema inmunitario'],
  'Evolución': ['🌍','Nuestra historia evolutiva'],
  'Microbiota': ['🔬','Microorganismos e intestino'],
@@ -11,7 +10,7 @@ const folderDetails = {
  'Factores ambientales': ['🌿','Entorno y hábitos'],
  'Investigación': ['🧪','Cómo avanza la ciencia']
 };
-const preferredOrder = ['Genética','Inmunología','Microbiota','Tratamientos','Investigación','Conceptos básicos','Herencia y riesgo','Evolución','Factores ambientales'];
+const preferredOrder = ['Genética','Inmunología','Microbiota','Tratamientos','Investigación','Conceptos generales','Evolución','Factores ambientales'];
 const formats = ['Todos','Reel','Podcast','Artículo','Entrevista','Recurso'];
 let items = [], selectedFolder = null, selectedFormat = 'Todos';
 function el(tag, className, content) { const node=document.createElement(tag);if(className)node.className=className;if(content!==undefined)node.textContent=content;return node; }
@@ -23,4 +22,4 @@ function renderFeatured(){const x=items.find(x=>x.destacado),root=$('featured');
 function render(){const q=$('search').value.trim(),searching=Boolean(q),all=matching();const showResults=searching||selectedFolder!==null; $('folders').hidden=showResults;$('results').hidden=!showResults;$('library-title').textContent=searching?'Resultados de búsqueda':selectedFolder?'Dentro de la carpeta':'Explora por temas';$('count').textContent=showResults?`${all.length} ${all.length===1?'contenido':'contenidos'}`:'Elige una carpeta para explorar tus contenidos';if(showResults){$('results-title').textContent=searching?(selectedFolder?`Resultados en ${selectedFolder}`:'Todos los temas'):selectedFolder;$('cards').replaceChildren();if(!all.length)$('cards').append(el('p','empty','No hay resultados. Prueba otra búsqueda o filtro.'));else for(const x of all)$('cards').append(makeCard(x));return;}
  const topics=[...new Set(items.filter(x=>!x.destacado).flatMap(x=>x.temas||[]))].sort((a,b)=>{const ia=preferredOrder.indexOf(a),ib=preferredOrder.indexOf(b);return (ia<0?999:ia)-(ib<0?999:ib)||a.localeCompare(b,'es');});$('folders').replaceChildren();for(const topic of topics){const count=items.filter(x=>!x.destacado&&(x.temas||[]).includes(topic)&&(selectedFormat==='Todos'||x.formato===selectedFormat)).length;if(!count)continue;const [emoji,subtitle]=folderDetails[topic]||['📁','Explora esta temática'];const btn=el('button','folder');btn.type='button';btn.append(el('span','folder-emoji',emoji),el('span','folder-name',topic),el('span','folder-subtitle',subtitle),el('span','folder-bottom',`${count} ${count===1?'contenido':'contenidos'}  →`));btn.addEventListener('click',()=>{selectedFolder=topic;render();$('library-title').scrollIntoView({block:'start',behavior:'smooth'});});$('folders').append(btn);}}
 $('search').addEventListener('input',()=>{if($('search').value.trim())selectedFolder=null;render();});$('back').addEventListener('click',()=>{selectedFolder=null;$('search').value='';render();});formatButtons();
-fetch('contenidos.json?v=6',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Error HTTP '+r.status);return r.json();}).then(data=>{if(!Array.isArray(data))throw Error('El catálogo no es una lista');items=data;renderFeatured();render();}).catch(err=>{$('count').textContent='No se pudo cargar el catálogo';$('folders').append(el('p','empty','Comprueba contenidos.json. '+err.message));});
+fetch('contenidos.json?v=7',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Error HTTP '+r.status);return r.json();}).then(data=>{if(!Array.isArray(data))throw Error('El catálogo no es una lista');items=data;renderFeatured();render();}).catch(err=>{$('count').textContent='No se pudo cargar el catálogo';$('folders').append(el('p','empty','Comprueba contenidos.json. '+err.message));});
