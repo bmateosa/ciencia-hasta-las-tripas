@@ -86,5 +86,130 @@
     "parte": 2,
     "total_partes": 2,
     "relacionado": "https://www.instagram.com/reel/DeZvGzsC8T-/"
+  },
+  {
+    "titulo": "Investigación en EII: entrevista en A golpe de bit",
+    "formato": "Podcast",
+    "temas": [
+      "Investigación",
+      "Conceptos básicos"
+    ],
+    "palabras_clave": [
+      "RTVE",
+      "radio",
+      "entrevista",
+      "investigadoras",
+      "proyectos"
+    ],
+    "descripcion": "Entrevista de radio en RTVE sobre proyectos de jóvenes investigadoras españolas en EII.",
+    "url": "https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-proyectos-jovenes-investigadoras-espanolas-eii/16936862/",
+    "portada": "",
+    "emoji": "🎙️"
+  },
+  {
+    "titulo": "Cómo me pongo un biológico subcutáneo",
+    "formato": "Reel",
+    "temas": [
+      "Tratamientos"
+    ],
+    "palabras_clave": [
+      "biológico",
+      "biológicos",
+      "subcutáneo",
+      "inyección",
+      "administración"
+    ],
+    "descripcion": "Cómo me administro un tratamiento biológico por vía subcutánea.",
+    "url": "https://www.instagram.com/reel/DZsl-I2ia5C/",
+    "portada": "",
+    "emoji": "💉"
+  },
+  {
+    "titulo": "Fármacos en EII / Escala terapéutica",
+    "formato": "Reel",
+    "temas": [
+      "Tratamientos",
+      "Conceptos básicos"
+    ],
+    "palabras_clave": [
+      "fármacos",
+      "medicación",
+      "escala terapéutica",
+      "terapias"
+    ],
+    "descripcion": "Una introducción a los tratamientos y la escala terapéutica de las EII.",
+    "url": "https://www.instagram.com/reel/DagGic1o_pj/",
+    "portada": "",
+    "emoji": "💊"
+  },
+  {
+    "titulo": "¿Por qué los fármacos no curan la enfermedad?",
+    "formato": "Reel",
+    "temas": [
+      "Tratamientos",
+      "Conceptos básicos"
+    ],
+    "palabras_clave": [
+      "cura",
+      "fármacos",
+      "enfermedad crónica",
+      "remisión"
+    ],
+    "descripcion": "Por qué controlar la EII con tratamiento no equivale necesariamente a curarla.",
+    "url": "https://www.instagram.com/reel/DaszQB2Coxs/",
+    "portada": "",
+    "emoji": "💊"
+  },
+  {
+    "titulo": "Multifactorial y de causas desconocidas",
+    "formato": "Reel",
+    "temas": [
+      "Conceptos básicos",
+      "Factores ambientales",
+      "Genética"
+    ],
+    "palabras_clave": [
+      "multifactorial",
+      "etiología",
+      "causas",
+      "riesgo"
+    ],
+    "descripcion": "Qué significa que las EII sean enfermedades multifactoriales y de causas no completamente conocidas.",
+    "url": "https://www.instagram.com/reel/DZA7W5ZCEqd/",
+    "portada": "",
+    "emoji": "📖"
+  },
+  {
+    "titulo": "¿Qué es la EII?",
+    "formato": "Reel",
+    "temas": [
+      "Conceptos básicos"
+    ],
+    "palabras_clave": [
+      "Crohn",
+      "colitis ulcerosa",
+      "enfermedad inflamatoria intestinal"
+    ],
+    "descripcion": "Una introducción a las enfermedades inflamatorias intestinales.",
+    "url": "https://www.instagram.com/reel/Dcq-USPiWMN/",
+    "portada": "",
+    "emoji": "📖"
+  },
+  {
+    "titulo": "Clasificación de las EII",
+    "formato": "Reel",
+    "temas": [
+      "Conceptos básicos"
+    ],
+    "palabras_clave": [
+      "clasificación",
+      "Crohn",
+      "colitis ulcerosa",
+      "tipos"
+    ],
+    "descripcion": "Un repaso de la clasificación de las enfermedades inflamatorias intestinales.",
+    "url": "https://www.instagram.com/reel/DdzaLmTqOvV/",
+    "portada": "",
+    "emoji": "📖"
   }
 ]
