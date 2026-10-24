@@ -6,7 +6,7 @@
       "Presentación"
     ],
     "palabras_clave": [],
-    "descripcion": "Empieza aquí. Conoce mi por qué.",
+    "descripcion": "Dedico mi vida profesional a investigar la enfermedad inflamatoria intestinal. Y, además, la colitis ulcerosa me acompaña en este viaje. En este espacio comparto la ciencia que hay detrás de las preguntas que yo misma me he hecho como paciente y que me apasiona explorar como investigadora.",
     "url": "https://www.instagram.com/reel/DYuthTGizok/",
     "portada": "portadas/BEA MATEOS.png",
     "emoji": "💜",
@@ -51,8 +51,7 @@
     "formato": "Reel",
     "temas": [
       "Genética",
-      "Inmunología",
-      "Evolución"
+      "Inmunología"
     ],
     "palabras_clave": [
       "evolución"
@@ -71,8 +70,7 @@
     "formato": "Reel",
     "temas": [
       "Genética",
-      "Inmunología",
-      "Evolución"
+      "Inmunología"
     ],
     "palabras_clave": [
       "evolución",
@@ -178,9 +176,11 @@
     "emoji": "📖"
   },
   {
-    "titulo": "¿Qué es la EII?",
+    "titulo": "¿Qué es el Crohn y la colitis ulcerosa?",
     "formato": "Reel",
-    "temas": [],
+    "temas": [
+      "Conceptos generales"
+    ],
     "palabras_clave": [
       "Crohn",
       "colitis ulcerosa",
@@ -188,7 +188,7 @@
       "conceptos generales",
       "conceptos básicos"
     ],
-    "descripcion": "Una introducción a las enfermedades inflamatorias intestinales. Más que un dolor de tripa.",
+    "descripcion": "Una introducción a la enfermedad de Crohn y la colitis ulcerosa. Más que un dolor de tripa.",
     "url": "https://www.instagram.com/reel/Dcq-USPiWMN/",
     "portada": "",
     "emoji": "📖"
@@ -209,5 +209,92 @@
     "url": "https://www.instagram.com/reel/DdzaLmTqOvV/",
     "portada": "",
     "emoji": "📖"
+  },
+  {
+    "titulo": "Mi diagnóstico de colitis ulcerosa",
+    "formato": "Reel",
+    "temas": [
+      "Experiencia personal"
+    ],
+    "palabras_clave": [
+      "diagnóstico",
+      "mi historia",
+      "paciente",
+      "colitis ulcerosa"
+    ],
+    "descripcion": "Mi experiencia personal con el diagnóstico de colitis ulcerosa.",
+    "url": "https://www.instagram.com/reel/DbbZJw-iFH0/",
+    "portada": "",
+    "emoji": "💜"
+  },
+  {
+    "titulo": "Proyectos sobre EII preclínica: EARLY e INTERCEPT",
+    "formato": "Reel",
+    "temas": [
+      "Investigación"
+    ],
+    "palabras_clave": [
+      "EARLY",
+      "INTERCEPT",
+      "preclínica",
+      "investigación",
+      "prevención"
+    ],
+    "descripcion": "Dos proyectos de investigación sobre las fases preclínicas de la EII.",
+    "url": "https://www.instagram.com/reel/DaLRXDZi2X9/",
+    "portada": "",
+    "emoji": "🧪"
+  },
+  {
+    "titulo": "¿Cómo se investiga la EII en España?",
+    "formato": "Reel",
+    "temas": [
+      "Investigación"
+    ],
+    "palabras_clave": [
+      "investigación en España",
+      "publicaciones científicas",
+      "bibliometría",
+      "artículo científico"
+    ],
+    "descripcion": "Características de la investigación en EII en España y enlace al artículo original.",
+    "url": "https://www.instagram.com/reel/DdPN7H8iKtW/",
+    "portada": "",
+    "emoji": "🧪",
+    "articulo_url": "https://www.elsevier.es/es-revista-gastroenterologia-hepatologia-14-articulo-inflammatory-bowel-disease-in-spain-S0210570526009271"
+  },
+  {
+    "titulo": "Congreso de EII desde dentro",
+    "formato": "Reel",
+    "temas": [
+      "Investigación"
+    ],
+    "palabras_clave": [
+      "congreso",
+      "investigación",
+      "científicos",
+      "EII"
+    ],
+    "descripcion": "Una mirada desde dentro a un congreso sobre enfermedad inflamatoria intestinal.",
+    "url": "https://www.instagram.com/reel/DeFAG83iokN/",
+    "portada": "",
+    "emoji": "🧪"
+  },
+  {
+    "titulo": "¿Por qué las EII no se consideran estrictamente autoinmunes?",
+    "formato": "Reel",
+    "temas": [
+      "Inmunología"
+    ],
+    "palabras_clave": [
+      "autoinmunidad",
+      "autoinflamación",
+      "enfermedades inmunomediadas",
+      "sistema inmunitario"
+    ],
+    "descripcion": "Una explicación sobre las EII como enfermedades inmunomediadas y los matices de la autoinmunidad.",
+    "url": "https://www.instagram.com/reel/DbjA3azilK6/",
+    "portada": "",
+    "emoji": "🦠"
   }
 ]
