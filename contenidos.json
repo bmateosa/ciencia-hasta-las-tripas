@@ -138,7 +138,7 @@
     ],
     "descripcion": "Una introducción a los tratamientos y la escala terapéutica de las EII.",
     "url": "https://www.instagram.com/reel/DagGic1o_pj/",
-    "portada": "",
+    "portada": "portadas/Escala.png",
     "emoji": "💊"
   },
   {
@@ -155,7 +155,7 @@
     ],
     "descripcion": "Por qué los fármacos controlan la enfermedad pero no curan?",
     "url": "https://www.instagram.com/reel/DaszQB2Coxs/",
-    "portada": "",
+    "portada": "portadas/Curan.png",
     "emoji": "💊"
   },
   {
@@ -190,7 +190,7 @@
     ],
     "descripcion": "Una introducción a la enfermedad de Crohn y la colitis ulcerosa. Más que un dolor de tripa.",
     "url": "https://www.instagram.com/reel/Dcq-USPiWMN/",
-    "portada": "portadas/EII.png",
+    "portada": "portadas/EII2.png",
     "emoji": "📖"
   },
   {
@@ -294,7 +294,7 @@
     ],
     "descripcion": "Una explicación sobre las EII como enfermedades inmunomediadas y los matices de la autoinmunidad.",
     "url": "https://www.instagram.com/reel/DbjA3azilK6/",
-    "portada": "portadas/inmunomediadas.png",
+    "portada": "portadas/Inmunomediadas.png",
     "emoji": "🦠"
   }
 ]
