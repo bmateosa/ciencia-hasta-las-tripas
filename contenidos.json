@@ -190,7 +190,7 @@
     ],
     "descripcion": "Una introducción a la enfermedad de Crohn y la colitis ulcerosa. Más que un dolor de tripa.",
     "url": "https://www.instagram.com/reel/Dcq-USPiWMN/",
-    "portada": "",
+    "portada": "portadas/EII.png",
     "emoji": "📖"
   },
   {
@@ -259,7 +259,7 @@
     ],
     "descripcion": "Características de la investigación en EII en España y enlace al artículo original.",
     "url": "https://www.instagram.com/reel/DdPN7H8iKtW/",
-    "portada": "portadas/IBDSpain.JPG",
+    "portada": "portadas/IBDspain.JPG",
     "emoji": "🧪",
     "articulo_url": "https://www.elsevier.es/es-revista-gastroenterologia-hepatologia-14-articulo-inflammatory-bowel-disease-in-spain-S0210570526009271"
   },
@@ -294,7 +294,7 @@
     ],
     "descripcion": "Una explicación sobre las EII como enfermedades inmunomediadas y los matices de la autoinmunidad.",
     "url": "https://www.instagram.com/reel/DbjA3azilK6/",
-    "portada": "",
+    "portada": "portadas/inmunomediadas.png",
     "emoji": "🦠"
   }
 ]
